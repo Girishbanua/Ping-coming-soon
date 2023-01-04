@@ -1,0 +1,39 @@
+Mobile View
+container
+margin: 160px(10rem) 60px(3.75rem)
+
+logo
+height: 40px(2.5rem)
+
+gap betn logo & heading - 80px(5rem)
+
+gap betn h1 & p- 20px(1.25rem)
+
+gap betn headng & input box- 60px(3.75rem)
+
+gap betn input & notify box- 40px(2.5rem)
+
+gap betn notify box & image- 80px(5rem)
+
+gap betn image and footer- 220px(13.75rem) 
+
+gap betn icons & copyright- 40px(2.5rem)
+
+Desktop View
+
+container
+margin: 80px(5rem) 400px(25rem)
+width: 640px (40rem)
+
+gap betn logo & heading: 40px(2.5rem)
+
+gap between h1 & p: 10px
+
+ gap betn headings & input box: 40px(2.5rem)
+
+gap betn input box & image: 80px(5rem)
+
+gap betwn image & footer: 60px(3.75rem)
+
+gap betn icons & copyright: 20px(1.25rem)
+
